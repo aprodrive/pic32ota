@@ -1,1 +1,1 @@
-{"rd_simnumber": "001_RD", "rd_host": "script.google.com", "rd_port_no": 443, "rd_url": "/macros/s/AKfycbxcI_wcaTX8vaxnxm2E0YmcJB9YRTIVD5Liy1uDjEMugHo3tLeG0J6djeNRPRf1elvp/exec", "rd_ver": "1.9.1", "rd_no": 191, "rd_flag": 0}
+{"rd_simnumber": "001_RD", "rd_host": "script.google.com", "rd_port_no": 443, "rd_url": "/macros/s/AKfycbxcI_wcaTX8vaxnxm2E0YmcJB9YRTIVD5Liy1uDjEMugHo3tLeG0J6djeNRPRf1elvp/exec", "rd_ver": "1.9.1", "rd_no": 191, "rd_flag": 1}

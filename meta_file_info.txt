@@ -1,1 +1,1 @@
-{"all_file_path": "/aprodrive/pic32ota/main/", "bin_file_name": "meta_bin.txt", "rd_file_name": "meta_rd.txt"}
+{"all_file_path": "/aprodrive/pic32ota/main/", "bin_file_name": "meta_bin.txt", "rd_file_name": "meta_rd.txt", "picid_file_name": "meta_picid.txt"}

@@ -1,1 +1,1 @@
-{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/aprodrive/pic32ota/main/", "bin_ver": "3.0.0.2", "bin_no": 3002, "bin_flag": 0, "bin_size_before": 9764, "bin_size_after": 12288, "bin_crc32_key": 0}
+{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/aprodrive/pic32ota/main/", "bin_ver": "1.0.0.0", "bin_no": 1000, "bin_flag": 0, "bin_size_before": 12072, "bin_size_after": 12288, "bin_crc32_key": 0}
